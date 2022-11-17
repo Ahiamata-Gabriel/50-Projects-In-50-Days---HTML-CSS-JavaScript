@@ -9,7 +9,7 @@ body {
   overflow: hidden;
   margin: 0;
   background-color: #1b262c;
-  background-image: url(/images/background.jpg);
+  background-image: url(./images/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
